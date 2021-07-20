@@ -1,7 +1,7 @@
 #replace latest with ubuntu version eg. ubuntu:18.04
 FROM ubuntu:latest
 
-LABEL maintener="gautamj@cdac.in" purpose="Day 1 nmap+wireshark"
+LABEL maintener="Gautam Jee" purpose="xrdp to a docker container"
 
 #all basic tools
 ENV SHELL=/bin/bash
